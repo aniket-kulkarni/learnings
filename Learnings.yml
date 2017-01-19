@@ -7,3 +7,11 @@
 - title: Whats is difference b/w socket, ipaddr and port
 - title: What is logarithm (n)
 - title: What is indexing? Which datastructure is stored internally  
+- title: What is secondary indexing  
+- title: What is difference between exe and binary  
+- title: What is difference between stack and a heap. Does every process gets a different heap?
+  links: 
+    - http://www.programmerinterview.com/index.php/data-structures/difference-between-stack-and-heap/
+    - http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+    - http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
+    - https://coderanch.com/t/501664/java/objects-created-HEAP-compared-STACK
